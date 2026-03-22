@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+cards:
+  message: "Welcome to EazyBank cards related QA APIs "
+  contactDetails:
+    name: "Ravi - Developer"
+    email: "ravi@eazybank.com"
+  onCallSupport:
+    - (555) 587-1234
+    - (555) 124-1345

@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+loans:
+  message: "Welcome to EazyBank loans related Prod APIs "
+  contactDetails:
+    name: "Purushotham - Developer"
+    email: "purushotham@eazybank.com"
+  onCallSupport:
+    - (555) 555-5874
+    - (555) 523-1478
